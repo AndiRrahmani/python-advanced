@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="313a7f8c-bb54-44c9-b313-ad79653af1d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson 21/type_hints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson13/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="a78ad48b-cceb-4b43-aeda-dd99eed405c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson 22/api_development/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 22/api_development/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 22/api_development/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 22/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 22/reqiurements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="3Jh2lK9hnsplYrLwXdAjRP3MoIu" />
+  <component name="ProjectId" id="3JmfsPoZszW6TfCQy49VSEHeZ4N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,11 +54,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="313a7f8c-bb54-44c9-b313-ad79653af1d1" name="Changes" comment="" />
-      <created>1790099128328</created>
+      <changelist id="a78ad48b-cceb-4b43-aeda-dd99eed405c9" name="Changes" comment="" />
+      <created>1790271370636</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1790099128328</updated>
+      <updated>1790271370636</updated>
     </task>
     <servers />
   </component>
